@@ -1,29 +1,11 @@
 👋 Hi there! Welcome to my GitHub profile! 
 ---
 
-## 🎓 Education & Certifications
-
 ### 🎓 Education
 
-- **MSc. Applied Data Science**  
-  Teesside University, Middlesbrough, UK  
-  *May 2024*
+- **MSc. Applied Data Science** - Teesside University, Middlesbrough, UK  
 
-- **BSc. Biochemistry**  
-  University of Ilorin, Ilorin, Nigeria  
-  *Aug 2015*
-
-### 🎖 Certifications
-
-- **[Google Advanced Data Analytics](https://bit.ly/3THSDzC)**  
-  *Dec 2023*
-
-- **[Google Data Analytics](https://bit.ly/3MQwsTU)**  
-  *Sept 2023*
-
-- **[Virtual Work Experience Certificate](https://bit.ly/3G1JVEy)**  
-  Digdata and GSK  
-  *Jun 2023*
+- **BSc. Biochemistry** - University of Ilorin, Ilorin, Nigeria  
 
 ---
 
