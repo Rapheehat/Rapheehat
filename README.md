@@ -9,7 +9,7 @@
 
 ---
 ## Deep Learning Projects
-*[Malaria cell identification using a combination of deep learning and traditional machine learning techniques](https://github.com/Rapheehat/malaria-detection-web-app-streamlit)
+* [Malaria cell identification using a combination of deep learning and traditional machine learning techniques](https://github.com/Rapheehat/malaria-detection-web-app-streamlit)
 
 ## Machine Learning Projects
 * [Crop Recommendation In Precision Agriculture Using Machine Learning](https://github.com/Rapheehat/Crop_Recommendation_ML)
